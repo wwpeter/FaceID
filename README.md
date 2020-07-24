@@ -143,6 +143,4 @@ https://img-blog.csdnimg.cn/202007241743106.png
     self.imgTemp = [self imageFromSampleBuffer:sampleBuffer];
 
 }
-————————————————
-版权声明：本文为CSDN博主「super_man_风清扬」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/super_man_ww/article/details/107566290
+
