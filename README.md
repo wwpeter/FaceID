@@ -1,6 +1,11 @@
 # FaceID
 人脸识别，获取到人脸之后转换成uiimage 和后台进行交互
 
+# 效果演示
+
+![images](https://img-blog.csdnimg.cn/202007241743106.png)
+
+
 
 https://img-blog.csdnimg.cn/202007241743106.png
 
